@@ -1,0 +1,7 @@
+{
+  "name": "MedDiagnosa AI",
+  "description": "Asisten diagnosis kesehatan cerdas yang mensimulasikan konsultasi dengan berbagai dokter spesialis. Menggunakan AI canggih untuk analisis gejala awal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
